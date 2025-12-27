@@ -8,23 +8,36 @@ The system is designed to provide a smooth and user-friendly online shopping exp
 🚀 Technologies Used
 
   •	Frontend: React.js, CSS, Tailwind CSS
+  
   •	Backend: Node.js, Express.js
+  
   •	Database: MongoDB
+  
   •	Authentication: JWT
-  •	Tools: Git, GitHub, Postman
+  
+  •	Tools: Git, GitHub
+  
   •	Package Manager: npm
+  
 
 
 
 ✨ Features
 
   •	  User authentication (Login / Register)
+  
   •	  Product listing and category display
+  
   •	  Product image upload
+  
   •	  Shopping cart functionality
+  
   •	  Admin panel for managing products
+  
   •	  Secure REST API
+  
   •	  Responsive UI design
+  
   •	  Modern frontend with React
 
 
